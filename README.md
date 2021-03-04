@@ -18,6 +18,6 @@ https://github.com/j-core
 
 Instruction Set Document:
 
-Renesas SH Instruction Set Summary
+[Renesas SH Instruction Set Summary]
 
 http://shared-ptr.com/sh_insns.html
