@@ -12,7 +12,7 @@ http://www.gputop.com/
 
 =======================
 
-J-Core
+J-Core (Formaly, SuperH Based) - BSD License 
 
 https://github.com/j-core
 
