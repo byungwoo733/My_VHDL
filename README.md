@@ -21,3 +21,7 @@ Instruction Set Document:
 [Renesas SH Instruction Set Summary]
 
 http://shared-ptr.com/sh_insns.html
+
+Compiler Explorer
+
+https://godbolt.org/
